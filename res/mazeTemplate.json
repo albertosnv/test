@@ -1,0 +1,32 @@
+{ "compressionlevel":-1,
+ "height":@height,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[@maze],
+         "height":@height,
+         "id":1,
+         "name":"Capa de patrones 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":@width,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.11.2",
+ "tileheight":64,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"tiles_maze.tsx"
+        }],
+ "tilewidth":64,
+ "type":"map",
+ "version":"1.10",
+ "width":@width
+}
