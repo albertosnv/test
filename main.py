@@ -275,7 +275,7 @@ if __name__ == "__main__":
 
     width = 200
     height = 200
-    ###
+z
     #for i in range(10):
      #   maze = createMaze(width, height)
       #  fixMaze(width, height, maze, "maze" + str(i + 1) + ".tmj")
